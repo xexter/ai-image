@@ -1,0 +1,19 @@
+.image-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  @media (max-width: 800px) {
+    .image-card {
+      width: calc(50% - 10px);
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .image-card {
+      width: calc(100% - 10px);
+    }
+  }
+  
