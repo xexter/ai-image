@@ -15,6 +15,7 @@
     font-size: 16px;
     width: 300px;
     background-color: aquamarine;
+    color:red;
     border-radius: 5px;
     border: 1px solid #ccc;
     flex: 1;
@@ -25,7 +26,7 @@
     padding: 10px 20px;
     font-size: 16px;
     background-color: #c3a8a8;
-    color: #fff;
+    color: #169f3b;
     border: none;
     border-radius: 5px;
     cursor: pointer;

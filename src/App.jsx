@@ -6,7 +6,7 @@ import './App.css';
 const apikey = '1OJz6FbaW8xUDnF1wAfUUsv43CfmHH9csd50lucOtlo';
 
 const App = () => {
-  const [img, setImg] = useState("");
+ // const [img, setImg] = useState("");
   const [res, setRes] = useState([]);
 
   const fetchRequest = async (query) => {
